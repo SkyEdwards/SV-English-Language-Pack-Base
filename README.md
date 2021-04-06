@@ -14,3 +14,11 @@ Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915?tab=files
 Files will be updated as nessesary as new text is added to the base game and if any base strings are missed.
 
 I'm still working on some minor things, like how to add a language to the list of languages properly, currently only strings can be changed out.
+
+
+
+
+
+=== Change Log ===
+1.0 - File structure setup and first sprite modifications.
+1.1 - Updating content.json format to most current supported version.
